@@ -13,7 +13,7 @@ This Java-based calculator performs various mathematical operations.
 
 ## How to Run:
 1. Compile the program using javac Main.java
-2. Run it using `java Main`
+2. Run it using java Main
 
 ## Git Commit History:
 - Added Main.java with program entry point
